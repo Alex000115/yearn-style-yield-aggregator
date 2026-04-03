@@ -1,0 +1,10 @@
+{
+  "name": "yearn-style-yield-aggregator",
+  "version": "1.0.0",
+  "description": "Auto-compounding Multi-strategy Yield Vault",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
